@@ -1,0 +1,16 @@
+.header{
+    color: aqua;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 10px;
+    background-image: url('download.jpeg');
+}
+
+div{
+    color: rgb(1, 32, 5);
+    background-color: brown;
+    border: 10px solid cornflowerblue;
+    border-radius: 20px;
+    margin: 10px 10px 10px ;
+    padding: 10px;
+}
